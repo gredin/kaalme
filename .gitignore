@@ -1,0 +1,6 @@
+env/
+sound/
+sound_edited/
+episodes_edited/
+*.pyc
+*.pyo
